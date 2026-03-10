@@ -16,3 +16,6 @@ strict = false
 trusted_sender = false
 trusted_caller = false
 callee_filter = false
+
+[contracts.pixel-identity]
+path = 'contracts/pixel-identity.clar'
